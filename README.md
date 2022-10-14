@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeSaulo
 - 👀 I’m interested in web development, data science, python and offensive-security
 - 🌱 I’m currently learning Python, Flask, Djago and FastAPI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on development web Pages
 - 📫 How to reach me ...
 
 <!---
